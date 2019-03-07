@@ -1,5 +1,13 @@
+html, body, #root{
+  height: 100%;
+  
+}
+
 .App {
   text-align: center;
+  height: 100%;
+  background-image: url('assets/img/vegan.jpg');
+  background-size: cover;
 }
 
 .App-logo {
